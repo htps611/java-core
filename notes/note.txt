@@ -1,0 +1,27 @@
+java futures: 
+- oop
+- simple
+- secured
+- platform independent (write one run anywhere)
+- distributed (ME, j2ee)
+- multi-thread
+
+Ide Eclipse
+- select working set
+- eclipse code template
+- eclipse class header
+
+- comment code : ctrl + /, ctrl + shift + /
+- un comment code : ctrl + /, ctrl + shift + \
+
+
+JAR (Java Archive)
+
+java build tool: maven (pom.xml), gradle, ant
+
+Basic OOP: 
+
+
+
+
+
